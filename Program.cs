@@ -7,5 +7,5 @@ Console.WriteLine("Hello, World!");
 TestOutput();
 
 static void TestOutput() {
-    Console.WriteLine("WTF?");
+    Console.WriteLine("TestOutput");
 }
